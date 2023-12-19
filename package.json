@@ -17,7 +17,8 @@
   },
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "build-github": "rm -rf docs/* && parcel build --public-url ./ --dist-dir docs"
   },
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
