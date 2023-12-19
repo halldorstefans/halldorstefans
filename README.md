@@ -3,9 +3,7 @@
 
 ### I help make people's lives easier by ensuring smooth communication between multiple systems.
 
-## Crafting Quality in Code & Collaboration
-
-### My Expertise
+## My Expertise
 
 - **Software Development:** Over 8 years of development experience with C#, Go, SQL, Docker, Kubernetes, Kafka, and .NET framework in agile environments.
 - **API Design and Implementation:** Design and implement RESTful, OpenAPI, and gRPC APIs based on industry standards and guidelines.
