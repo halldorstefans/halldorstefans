@@ -18,6 +18,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
+    "clean": "rm -rf .parcel-cache dist",
     "build-github": "rm -rf docs/* && parcel build --public-url ./ --dist-dir docs"
   },
   "devDependencies": {
