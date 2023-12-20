@@ -33,7 +33,7 @@ export default function FooterCTA() {
                         <a href="https://calendly.com/halldorstefans/30min" target="_blank">
                             <button
                                 type="button"
-                                className="inline-block rounded-full border-2 bg-blue-500 border-blue-500 px-6 pb-[6px] pt-2 text-xl font-semibold uppercase leading-normal text-white transition duration-150 ease-in-out hover:border-blue-600 hover:bg-blue-950 hover:bg-opacity-10 hover:text-slate-600 focus:border-blue-600 focus:text-slate-600 focus:outline-none focus:ring-0 active:border-blue-800 active:text-slate-800 dark:hover:bg-blue-600 dark:hover:bg-opacity-10">
+                                className="inline-block rounded-full border-2 bg-[#094FC3] border-[#094FC3] px-6 pb-[6px] pt-2 text-xl font-semibold uppercase leading-normal text-white transition duration-150 ease-in-out hover:border-[094FC3}-600 hover:bg-blue-950 hover:bg-opacity-10 hover:text-slate-600 focus:border-blue-600 focus:text-slate-600 focus:outline-none focus:ring-0 active:border-blue-800 active:text-slate-800 dark:hover:bg-blue-600 dark:hover:bg-opacity-10">
                                 Book a Call
                             </button>
                         </a>
@@ -44,7 +44,7 @@ export default function FooterCTA() {
             <div className="container pt-9 mx-auto">
                 <div className=" mb-9 flex justify-center items-center">
                     {socialmedias.map((social) => (
-                        <a className="mx-5" href={social.link}>
+                        <a className="mx-5" href={social.link} aria-label= {"Link to " + social.name}>
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 className="h-10 w-10"
