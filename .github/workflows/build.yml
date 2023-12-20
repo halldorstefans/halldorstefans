@@ -30,3 +30,31 @@ jobs:
       - name: No changes detected
         if: steps.auto-commit-action.outputs.changes_detected == 'false'
         run: echo "No changes!"
+
+  upload:
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Upload to blob storage
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob upload-batch --account-name halldorstefansdev --auth-mode key -d '$web' -s ./docs
+
+      - name: Purge CDN endpoint
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az cdn endpoint purge --content-paths  "/*" --profile-name "halldorstefansdev-cdn" --name "halldorstefans" --resource-group "halldorstefans.dev"
+
+      # Azure logout
+      - name: logout
+        run: |
+          az logout
+        if: always()
