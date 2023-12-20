@@ -41,6 +41,12 @@ jobs:
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
+      - name: Clean blob storage
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az storage blob delete-batch --account-name halldorstefansdev --auth-mode key -s '$web'
+
       - name: Upload to blob storage
         uses: azure/CLI@v1
         with:
