@@ -27,7 +27,7 @@ export default function FooterCTA() {
             <div className="container pt-14 mx-auto">
                 <div className="py-20">
                     <span className="flex items-center justify-center w-full">
-                        <h2 className="font-semibold text-4xl mr-4">I'd love to hear from you!</h2>
+                        <h2 className="font-semibold text-4xl mx-2">I'd love to hear from you!</h2>
                     </span>
                     <span className="pt-10 flex items-center justify-center w-full">
                         <a href="https://calendly.com/halldorstefans/30min" target="_blank">
