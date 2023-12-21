@@ -1,6 +1,6 @@
 
 import dayDashImage from './assets/images/DayDashboard.png';
-import iotImage from './assets/images/iot_overview.png'
+import cliImage from './assets/images/f1_cli.png'
 import mcLarenImage from './assets/images/mclarenAPI.jpg'
 
 const projects = [
@@ -12,11 +12,11 @@ const projects = [
         href: 'https://github.com/halldorstefans/DayDashboard',
     },
     {
-        name: 'Energy Analytics',
-        description: 'IoT Data Integration',
-        imageSrc: iotImage,
-        imageAlt: 'Homescreen display data coming from an IoT device.',
-        href: 'https://github.com/halldorstefans/Energy-Analytics',
+        name: 'F1 CLI',
+        description: 'Command-Line Tool for Formula 1',
+        imageSrc: cliImage,
+        imageAlt: 'Screenshot of the options of the tool.',
+        href: 'https://github.com/halldorstefans/f1-cli',
     },
     {
         name: 'McLaren API',
