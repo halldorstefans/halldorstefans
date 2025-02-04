@@ -28,3 +28,7 @@ Feel free to contact me if you're interested in discussing exciting opportunitie
 ### I'd love to hear from you.
 
 You can find my contact information [here.](https://www.halldorstefans.dev/#contact)
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
