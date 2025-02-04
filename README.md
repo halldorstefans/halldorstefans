@@ -31,4 +31,9 @@ You can find my contact information [here.](https://www.halldorstefans.dev/#cont
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Motor Control: Raspberry Pi and MQTT via Browser](https://www.engineeracar.com/control-rpi-mqtt/)
+- [Simple DC and Servo Motor Control in C++ with Raspberry Pi and TB6612FNG](https://www.engineeracar.com/motor-control-rpi-cpp/)
+- [Robot Car Ideas to Inspire Your Next Project](https://www.engineeracar.com/robot-car-ideas/)
+- [Car Fundamentals: Electrical System](https://www.engineeracar.com/car-fundamentals-electrical/)
+- [Car Fundamentals: Brakes](https://www.engineeracar.com/car-fundamentals-brakes/)
 <!-- BLOG-POST-LIST:END -->
