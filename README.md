@@ -9,6 +9,8 @@
 - **API Design and Implementation:** Design and implement RESTful, OpenAPI, and gRPC APIs based on industry standards and guidelines.
 - **Integration Specialist:** Lead and develop integrations, from ERP to web applications, using SOAP, REST, XML, JSON, etc.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halldorstefans&layout=compact)
+
 ## Who Am I?
 
 I'm a graduated car mechanic turned coder who thrives on creating useful things.
