@@ -6,10 +6,8 @@
 ## My Work
 
 - **Software Development:** Over 8 years of expertise developing complex software systems and APIs (REST, gRPC, OpenAPI) in agile environments.
-- **Systems Design and Implementation:** Design and implement distributed systems, leveraging extensive experience in Go, .NET, Docker, and Kafka to create scalable solutions.
+- **Systems Design and Implementation:** Design and implement distributed systems, leveraging experience in Go, .NET, Docker, and Kafka to create scalable solutions.
 - **Technical Leadership:** With a proven track record of leading projects from ERP to web applications.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halldorstefans&layout=compact)
 
 ## Who Am I?
 
