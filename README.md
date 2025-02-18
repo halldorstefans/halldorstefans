@@ -1,33 +1,23 @@
-# Hey - I'm Halldor Stefansson! 👋
-## Software Engineer
+# Hey - I'm Halldor! 👋
+## Software Engineer - From Cars to Cloud
 
-### I help make people's lives easier by ensuring smooth communication between multiple systems.
+### I help automotive companies build scalable and connected solutions by bridging cloud services, enterprise systems, and IoT technologies.
 
-## My Expertise
+## My Work
 
-- **Software Development:** Over 8 years of development experience with C#, Go, SQL, Docker, Kubernetes, Kafka, and .NET framework in agile environments.
-- **API Design and Implementation:** Design and implement RESTful, OpenAPI, and gRPC APIs based on industry standards and guidelines.
-- **Integration Specialist:** Lead and develop integrations, from ERP to web applications, using SOAP, REST, XML, JSON, etc.
+- **Software Development:** Over 8 years of expertise developing complex software systems and APIs (REST, gRPC, OpenAPI) in agile environments.
+- **Systems Design and Implementation:** Design and implement distributed systems, leveraging extensive experience in Go, .NET, Docker, and Kafka to create scalable solutions.
+- **Technical Leadership:** With a proven track record of leading projects from ERP to web applications.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halldorstefans&layout=compact)
 
 ## Who Am I?
 
-I'm a graduated car mechanic turned coder who thrives on creating useful things.
+I'm a graduated car mechanic turned coder who loves creating, building and bringing things to life that help people while continuously learning and enjoying life.
 
-After completing my car mechanic studies, I pursued a university education. There, I discovered the world of programming and got instantly hooked!
+## Let's Connect!
 
-Since then, I've been passionate about crafting solutions to improve people's lives. Whether it's a simple weather dashboard for my girlfriend or integrations to streamline tasks to minimise manual work, I love the challenge.
-
-My focus is on bringing people together to solve problems efficiently. I specialise in developing software solutions that simplify processes and improve operations. That involves fostering a cohesive team, making data-based decisions, and committing to continuous learning.
-
-Feel free to contact me if you're interested in discussing exciting opportunities, working on cool projects, or just chatting about classic cars.
-
-## Let's Chat!
-
-### I'd love to hear from you.
-
-You can find my contact information [here.](https://www.halldorstefans.dev/#contact)
+Beyond work, I maintain a blog called [Engineer-A-Car](https://www.engineeracar.com/), exploring the intersection of software, automotive systems, and emerging technologies.
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
