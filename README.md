@@ -21,9 +21,9 @@ Beyond work, I maintain a blog called [Engineer-A-Car](https://www.engineeracar.
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vehicle to Cloud: Building a Real-Time Fuel Level Dashboard](https://www.engineeracar.com/automotive-soa-vehicle-to-cloud-fundamentals/)
 - [From Sensor Into On-Board Service via Signal-to-Service APIs](https://www.engineeracar.com/automotive-soa-on-board-fundamentals/)
 - [Remote Motor Control: Raspberry Pi and MQTT via Browser](https://www.engineeracar.com/control-rpi-mqtt/)
 - [Simple DC and Servo Motor Control in C++ with Raspberry Pi and TB6612FNG](https://www.engineeracar.com/motor-control-rpi-cpp/)
 - [Robot Car Ideas to Inspire Your Next Project](https://www.engineeracar.com/robot-car-ideas/)
-- [Car Fundamentals: Electrical System](https://www.engineeracar.com/car-fundamentals-electrical/)
 <!-- BLOG-POST-LIST:END -->
