@@ -1,23 +1,24 @@
 # Hey - I'm Halldor! 👋
 ## Software Engineer - From Cars to Cloud
 
-**I help businesses build integrated systems by bridging cloud services, enterprise systems, and IoT technologies.**
-
-## What I Do
-
-- **Software Development:** Expertise in developing robust software systems and integrations in agile environments.
-- **Systems Design and Implementation:** Design and implement scalable solutions, leveraging experience in Go, .NET, Docker, and Kafka.
-- **Technical Leadership:** With a proven track record of leading projects from ERP to web applications.
+**I build integrated systems by bridging automotive, cloud and IoT systems.**
 
 ## About Me In 8 Seconds
 
 I tried to be a car mechanic before shifting gears to earn a degree in Mechatronics.
 
-Now, I work as a software engineer who loves learning, building and innovating things that empower people.
+Now, I work as a software engineer who loves learning, building and innovating things.
+
+## What I Do
+
+- **Solution Design:** Design and develop cohesive systems, enabling real-time data processing and enhanced operational efficiency
+- **System Integrations:** Expert in bridging traditional systems with modern cloud platforms, using technologies like Go, Docker, and Kafka to create robust, scalable solutions
+- **Technical Leadership:** With a proven track record in leading teams and advancing agile software development processes
+- **System-Level Thinking:** Combine software expertise with a mechatronics background to deliver solutions considering digital and physical constraints
 
 ## Let's Connect!
 
-Beyond work, I maintain a blog called [Engineer-A-Car](https://www.engineeracar.com/), exploring the intersection of software, automotive systems, and emerging technologies.
+Beyond work, I explore blending hardware and software through hands-on projects, as detailed on my blog, [Engineer-A-Car](https://www.engineeracar.com/).
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
