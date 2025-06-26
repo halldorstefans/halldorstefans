@@ -1,17 +1,20 @@
-# Hey - I'm Halldor! 👋
-## Software Engineer - From Cars to Cloud
+# 👋 Hey — I'm Halldor!
+## Software Engineer | Backend • Cloud • IoT • Systems Integration
 
-**I build integrated systems by bridging automotive, cloud and IoT.**
+I'm a software engineer with a mechatronics background and 10 years of experience building robust backend systems, cloud-native microservices, and connected IoT solutions.
 
-## About Me In 8 Seconds
+I love working at the intersection of the digital and the physical — designing systems that bridge embedded devices, cloud services, and real-world applications.
 
-Initially studied to become a car mechanic before shifting gears to earn a degree in Mechatronics.
+### 🚗 Cars + Code
 
-Currently, I'm working as a software engineer who loves designing, and building systems.
+Outside of work, I write on [Engineer-A-Car](https://www.engineeracar.com) — a blog where I explore vehicle systems through code, projects, and tutorials.
 
-## Let's Connect!
+My goal is to help other makers, tinkerers, and engineers to learn and build with confidence.
 
-Beyond work, I explore the intersection of cars and code through hands-on projects on my blog, [Engineer-A-Car](https://www.engineeracar.com/).
+### ✉️ Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/halldorstefans/)
+- 🌐 [Engineer-A-Car](https://www.engineeracar.com)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
