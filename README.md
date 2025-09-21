@@ -18,9 +18,9 @@ My goal is to help other makers, tinkerers, and engineers to learn and build wit
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Digital Logbook: Architecture and First Steps](https://www.engineeracar.com/building-a-digital-logbook-architecture-and-first-steps/)
 - [Beginner&#39;s Guide: Understanding Wireless Sensor Networks &lpar;WSNs&rpar;](https://www.engineeracar.com/beginners-guide-wireless-sensor-networks/)
 - [Understanding Sensors: From Analogue &amp; Digital To MEMS &amp; Smart Sensors](https://www.engineeracar.com/understanding-sensors-analogue-digital-mems-smart/)
 - [From Idea to Reality: Building a Car Battery Monitor PoC with AI Help](https://www.engineeracar.com/car-battery-monitor-poc-with-ai/)
 - [Microcontroller Peripherals: GPIO, Timers, ADC, UART &amp; More](https://www.engineeracar.com/mcu-peripherals/)
-- [Beginner&#39;s Guide to Microcontroller Architectures: ARM Cortex-M vs. RISC-V](https://www.engineeracar.com/mcu-architectures-beginners-guide-arm-vs-risc-v/)
 <!-- BLOG-POST-LIST:END -->
