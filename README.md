@@ -1,18 +1,18 @@
 # 👋 Hey — I'm Halldor!
-## Software Engineer · Backend & Cloud Systems · Go / IoT / Connected Vehicles
+## Software Engineer · Backend & Cloud Systems · Mechatronics / IoT / Connected Vehicles
 
 Backend and cloud engineer with a mechatronics degree and a decade of distributed systems and integration experience across automotive systems, event-driven pipelines, and connected IoT prototyping.
  
 Particularly interested in work that has clear real-world consequences.
 
-### 🚗 Cars + Code
+### Cars + Code
 
-Actively restoring and modernising a 1972 MGB GT with custom telematics, battery monitoring, and a digital logbook. Documented at [Engineer-A-Car](https://www.engineeracar.com).
+Actively building custom telematics, battery monitoring, and a digital logbook for a 1972 MGB GT. Documented at [Engineer-A-Car](https://www.engineeracar.com).
 
-### ✉️ Let's Connect
+### Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/halldorstefans/)
-- 🌐 [Engineer-A-Car](https://www.engineeracar.com)
+- [LinkedIn](https://www.linkedin.com/in/halldorstefans/)
+- [Engineer-A-Car](https://www.engineeracar.com)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
