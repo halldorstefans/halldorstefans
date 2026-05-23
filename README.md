@@ -1,15 +1,13 @@
 # 👋 Hey — I'm Halldor!
-## Software Engineer | Backend • Cloud • IoT • Systems Integration
+## Software Engineer · Backend & Cloud Systems · Go / IoT / Connected Vehicles
 
-I'm a software engineer with a mechatronics background and 10 years of experience building robust backend systems, cloud-native microservices, and connected IoT solutions.
-
-I love working at the intersection of the digital and the physical — designing systems that bridge embedded devices, cloud services, and real-world applications.
+Backend and cloud engineer with a mechatronics degree and a decade of distributed systems and integration experience across automotive systems, event-driven pipelines, and connected IoT prototyping.
+ 
+Particularly interested in work that has clear real-world consequences.
 
 ### 🚗 Cars + Code
 
-Outside of work, I write on [Engineer-A-Car](https://www.engineeracar.com) — a blog where I explore vehicle systems through code, projects, and tutorials.
-
-My goal is to help other makers, tinkerers, and engineers to learn and build with confidence.
+Actively restoring and modernising a 1972 MGB GT with custom telematics, battery monitoring, and a digital logbook. Documented at [Engineer-A-Car](https://www.engineeracar.com).
 
 ### ✉️ Let's Connect
 
