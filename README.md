@@ -16,9 +16,9 @@ Actively building custom telematics, battery monitoring, and a digital logbook f
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tala v2: betting on local-first](https://www.engineeracar.com/tala-v2-local-first/)
 - [MGB Status: What Have I Done?](https://www.engineeracar.com/mgb-status-what-have-i-done/)
 - [Building a Digital Logbook: Architecture and First Steps](https://www.engineeracar.com/building-a-digital-logbook-architecture-and-first-steps/)
 - [Beginner&#39;s Guide: Understanding Wireless Sensor Networks &lpar;WSNs&rpar;](https://www.engineeracar.com/beginners-guide-wireless-sensor-networks/)
 - [Understanding Sensors: From Analogue &amp; Digital To MEMS &amp; Smart Sensors](https://www.engineeracar.com/understanding-sensors-analogue-digital-mems-smart/)
-- [From Idea to Reality: Building a Car Battery Monitor PoC with AI Help](https://www.engineeracar.com/car-battery-monitor-poc-with-ai/)
 <!-- BLOG-POST-LIST:END -->
